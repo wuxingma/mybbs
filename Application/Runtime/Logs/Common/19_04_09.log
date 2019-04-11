@@ -1,0 +1,8 @@
+[ 2019-04-09T08:27:45+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2019-04-09T16:54:37+08:00 ] 127.0.0.1 /1/sm_
+ERR: 无法加载模块:1
+

@@ -1,0 +1,164 @@
+[ 2019-04-08T11:42:33+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2019-04-08T14:56:14+08:00 ] 127.0.0.1 /messenger-front/get?c=nN640gDS6JvhLGVcrlwz0bCRKXVHrYH%2FaQAyyzd3n2HNPmcBO6%2B6p0FKNOic4gR82MgCzap5gqVDpi0ozLIVlxYTb1xeLTPwfb12VhdAv9ifPVJbX1NuPqU6VtvvxZe4ocT7OcJc0V9PPBAsYvWoXKbQ6gw3vb81wsmd%2FCFmDtwvRv6aDWVfTeuY0UwyQjnV1dR7TkUO%2BgWSi5ceJpKIx7gV4kqTntBaUqV6OpwOBgRELY0Q3f%2Bf9EsAaS3j0IgzjMLdW9V708hkXptHvMdbpDbAkfimO5mdFq%2FbfCnPfkxVJQ23BceUc4VgqZyFPV5E%2Bu%2FJW5O%2BigZiB0cSV5Yec7LRDAKQd2LQS4LERj3uDxz4reW%2FfOp6i3l5flaXiITKs%2FBjebQSk3en4dEnZd5U2jkn6kABud6I08idQ6OltDu62Zdkin1eZuedtkof%2FVCXJwF6ujd%2BXkeyuVJPQwuvEm9Wvwe2FSCq%2BbSjfSAlfG6L7yrtajAJUDV885xZpGRc6eACHvDdy5RtSutZX5QQzeUChh474c4eYLX6rc4E6H%2FZVVvGfaorBwSrOXSGYCeXNyYyNtsZSTgT%2BQyCKPEe7MM5vOA%2F%2FPwKFnfyeE%2BTt3hNKBb5WViRZ5OuVLMnlsPd7uWmfZDmcKxGxw8FjGegNTLRYoMni%2B41qPlGHl%2B5w9oz0NylalkaIw%3D%3D&v=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载模块:Messenger-front
+
+[ 2019-04-08T15:02:15+08:00 ] 127.0.0.1 /view/user/create
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:View
+
+[ 2019-04-08T15:03:11+08:00 ] 127.0.0.1 /design.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003097s ]
+ERR: 无法加载模块:Design
+
+[ 2019-04-08T15:03:54+08:00 ] 127.0.0.1 /design.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:Design
+
+[ 2019-04-08T19:35:01+08:00 ] 127.0.0.1 /css/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 无法加载模块:Css
+
+[ 2019-04-08T19:35:01+08:00 ] 127.0.0.1 /js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Js
+
+[ 2019-04-08T19:35:01+08:00 ] 127.0.0.1 /css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+ERR: 无法加载模块:Css
+
+[ 2019-04-08T19:35:02+08:00 ] 127.0.0.1 /css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+ERR: 无法加载模块:Css
+
+[ 2019-04-08T19:35:02+08:00 ] 127.0.0.1 /css/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+ERR: 无法加载模块:Css
+
+[ 2019-04-08T19:35:02+08:00 ] 127.0.0.1 /js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载模块:Js
+
+[ 2019-04-08T19:35:03+08:00 ] 127.0.0.1 /css/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+ERR: 无法加载模块:Css
+
+[ 2019-04-08T19:35:03+08:00 ] 127.0.0.1 /css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载模块:Css
+
+[ 2019-04-08T19:35:03+08:00 ] 127.0.0.1 /js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:Js
+
+[ 2019-04-08T19:35:03+08:00 ] 127.0.0.1 /css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载模块:Css
+
+[ 2019-04-08T19:35:03+08:00 ] 127.0.0.1 /css/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+ERR: 无法加载模块:Css
+
+[ 2019-04-08T19:35:03+08:00 ] 127.0.0.1 /js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+ERR: 无法加载模块:Js
+
+[ 2019-04-08T19:35:03+08:00 ] 127.0.0.1 /js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+ERR: 无法加载模块:Js
+
+[ 2019-04-08T19:35:03+08:00 ] 127.0.0.1 /css/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 无法加载模块:Css
+
+[ 2019-04-08T19:35:04+08:00 ] 127.0.0.1 /js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+ERR: 无法加载模块:Js
+
+[ 2019-04-08T19:35:04+08:00 ] 127.0.0.1 /css/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002266s ]
+ERR: 无法加载模块:Css
+
+[ 2019-04-08T19:35:04+08:00 ] 127.0.0.1 /css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002214s ]
+ERR: 无法加载模块:Css
+
+[ 2019-04-08T19:35:05+08:00 ] 127.0.0.1 /js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:Js
+
+[ 2019-04-08T19:35:05+08:00 ] 127.0.0.1 /css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+ERR: 无法加载模块:Css
+
+[ 2019-04-08T19:40:55+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2019-04-08T19:45:04+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2019-04-08T19:54:03+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2019-04-08T20:12:04+08:00 ] 127.0.0.1 /design.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+ERR: 无法加载模块:Design
+
