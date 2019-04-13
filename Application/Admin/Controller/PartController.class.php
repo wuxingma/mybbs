@@ -3,7 +3,7 @@ namespace Admin\Controller;
 
 use Think\Controller;
 
-class PartController extends Controller
+class PartController extends CommonController
 {
    //添加分区-表单
    public function create()
@@ -55,7 +55,7 @@ class PartController extends Controller
    public function edit()
    {
    		$pid = $_GET['pid'];
-   		$parts = M('bbs_part')->find($pid);
+   		$parts = M('bbs_part')->where('cid<3')->find($pid);
    		$this->assign('parts',$parts);
    		$this->display();
    }

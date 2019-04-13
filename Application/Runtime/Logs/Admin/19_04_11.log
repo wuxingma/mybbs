@@ -19,3 +19,72 @@ ERR: 无法加载控制器:Del
 [ 2019-04-11T14:17:19+08:00 ] 127.0.0.1 /index.php?m=admin&c=cate&a=update&cid=4
 ERR: Think\Model:update方法不存在！
 
+[ 2019-04-11T19:47:49+08:00 ] 127.0.0.1 /index.php?m=admin&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-11T20:15:04+08:00 ] 127.0.0.1 /index.php?m=admin&c=index&a=index
+ERR: syntax error, unexpected '}'
+
+[ 2019-04-11T20:18:02+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=login
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:18:06+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=create
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:18:08+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=create
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:18:12+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=create
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:20:21+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=login
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:22:09+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=login
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:22:09+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=login
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:22:10+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=login
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:22:10+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=login
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:22:10+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=login
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:22:11+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=login
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:22:11+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=login
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:22:11+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=login
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:22:11+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=login
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:22:12+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=login
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:22:12+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=login
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:22:12+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=login
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:22:18+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=create
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:22:26+08:00 ] 127.0.0.1 /index.php?m=admin&c=user&a=save
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting '{'
+
+[ 2019-04-11T20:28:12+08:00 ] 127.0.0.1 /index.php?m=admin&c=login&acode
+ERR: 非法操作:index
+
+[ 2019-04-11T20:35:50+08:00 ] 127.0.0.1 /index.php?m=admin&c=login&a=code0.7449146682346219
+ERR: 非法操作:code0.7449146682346219
+

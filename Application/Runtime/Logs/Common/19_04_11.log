@@ -1,3 +1,9 @@
 [ 2019-04-11T08:51:41+08:00 ] 192.168.215.30 /www.mybbs.com/index.php?m=admin&c=user&a=index
 ERR: 无法加载模块:Www.mybbs.com
 
+[ 2019-04-11T19:47:54+08:00 ] 127.0.0.1 /css/admin_login.css
+ERR: 无法加载模块:Css
+
+[ 2019-04-11T19:48:56+08:00 ] 127.0.0.1 /index.html
+ERR: 无法加载模块:Index
+

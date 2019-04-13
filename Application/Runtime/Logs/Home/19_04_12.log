@@ -1,0 +1,314 @@
+[ 2019-04-12T14:51:43+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected ';'
+
+[ 2019-04-12T14:51:58+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: Call to undefined function Home\Controller\pprit_r()
+
+[ 2019-04-12T15:12:41+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:14:20+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:14:21+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:14:21+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:14:22+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:14:22+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:14:22+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:14:22+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:14:23+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:14:23+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:14:23+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:16:32+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:17:18+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:17:19+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:17:19+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:17:19+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:17:19+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:17:19+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:17:19+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:17:20+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:19:37+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+
+[ 2019-04-12T15:21:43+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=index
+ERR: syntax error, unexpected ')'
+
+[ 2019-04-12T15:54:42+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=signup
+ERR: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+
+[ 2019-04-12T15:54:45+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=signup
+ERR: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+
+[ 2019-04-12T15:54:45+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=signup
+ERR: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+
+[ 2019-04-12T15:54:45+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=signup
+ERR: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+
+[ 2019-04-12T15:54:46+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=signup
+ERR: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+
+[ 2019-04-12T15:55:34+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=save
+ERR: 非法操作:save
+
+[ 2019-04-12T15:55:56+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=save
+ERR: 非法操作:save
+
+[ 2019-04-12T16:31:24+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=dologin
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''admin ) LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_user` WHERE ( uname='admin ) LIMIT 1  
+
+[ 2019-04-12T16:38:37+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '?>'
+
+[ 2019-04-12T16:39:32+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '?>'
+
+[ 2019-04-12T16:39:34+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '?>'
+
+[ 2019-04-12T16:39:34+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '?>'
+
+[ 2019-04-12T16:39:34+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '?>'
+
+[ 2019-04-12T16:39:35+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '?>'
+
+[ 2019-04-12T16:39:35+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '?>'
+
+[ 2019-04-12T16:39:35+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '?>'
+
+[ 2019-04-12T16:39:35+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '?>'
+
+[ 2019-04-12T16:39:36+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '?>'
+
+[ 2019-04-12T16:39:36+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '?>'
+
+[ 2019-04-12T16:39:38+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '?>'
+
+[ 2019-04-12T16:40:06+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected ':'
+
+[ 2019-04-12T16:40:07+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected ':'
+
+[ 2019-04-12T16:40:08+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected ':'
+
+[ 2019-04-12T16:40:08+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected ':'
+
+[ 2019-04-12T16:40:08+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected ':'
+
+[ 2019-04-12T16:43:58+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected '?>', expecting ':'
+
+[ 2019-04-12T16:47:02+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=logout
+ERR: 非法操作:logout
+
+[ 2019-04-12T16:57:01+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=login
+ERR: 非法操作:login
+
+[ 2019-04-12T16:57:09+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=login
+ERR: 非法操作:login
+
+[ 2019-04-12T16:57:57+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=login
+ERR: 非法操作:login
+
+[ 2019-04-12T16:58:17+08:00 ] 127.0.0.1 /index.php?m=home&c=index&a=signup
+ERR: 非法操作:signup
+
+[ 2019-04-12T19:39:26+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=create
+ERR: syntax error, unexpected '}'
+
+[ 2019-04-12T19:40:19+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=create
+ERR: syntax error, unexpected '}'
+
+[ 2019-04-12T19:40:38+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:37+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:38+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:39+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:43+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:44+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:44+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:44+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:45+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:45+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:45+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:46+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:46+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:46+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:46+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:46+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:47+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:47+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:47+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:47+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:47+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:41:52+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T19:42:29+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=login
+ERR: 非法操作:login
+
+[ 2019-04-12T19:42:38+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=create
+ERR: 非法操作:create
+
+[ 2019-04-12T19:44:12+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=create
+ERR: 非法操作:create
+
+[ 2019-04-12T19:44:13+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=login
+ERR: 非法操作:login
+
+[ 2019-04-12T19:44:40+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T20:45:17+08:00 ] 127.0.0.1 /index.php?m=home&c=post&c=create
+ERR: 无法加载控制器:Create
+
+[ 2019-04-12T20:46:04+08:00 ] 127.0.0.1 /index.php?m=home&c=post&c=create
+ERR: 无法加载控制器:Create
+
+[ 2019-04-12T21:00:33+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`name` FROM `bbs_user` WHERE ( uid='' ) 
+
+[ 2019-04-12T21:06:00+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`name` FROM `bbs_user` 
+
+[ 2019-04-12T21:06:01+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`name` FROM `bbs_user` 
+
+[ 2019-04-12T21:06:01+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`name` FROM `bbs_user` 
+
+[ 2019-04-12T21:06:01+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`name` FROM `bbs_user` 
+
+[ 2019-04-12T21:06:24+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`name` FROM `bbs_user` 
+
+[ 2019-04-12T21:06:24+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`name` FROM `bbs_user` 
+
+[ 2019-04-12T21:06:24+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`name` FROM `bbs_user` 
+
+[ 2019-04-12T21:06:25+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`name` FROM `bbs_user` 
+
+[ 2019-04-12T21:06:25+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`name` FROM `bbs_user` 
+
+[ 2019-04-12T21:06:25+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : SELECT `uid`,`name` FROM `bbs_user` 
+
+[ 2019-04-12T21:26:30+08:00 ] 127.0.0.1 /index.php?m=home&c=login&a=index
+ERR: 非法操作:index
+
+[ 2019-04-12T21:29:09+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') ORDER BY `updated_at` desc' at line 1
+ [ SQL语句 ] : SELECT * FROM `bbs_post` WHERE ( cid= ) ORDER BY `updated_at` desc 
+
+[ 2019-04-12T21:48:23+08:00 ] 127.0.0.1 /index.php?m=home&c=post&a=save
+ERR: 1048:Column 'cid' cannot be null
+ [ SQL语句 ] : INSERT INTO `bbs_post` (`cid`,`title`,`content`,`created_at`,`updated_at`) VALUES (NULL,'吴京','吊爆了','1555076903','1555076903')
+

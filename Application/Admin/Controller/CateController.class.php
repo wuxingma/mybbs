@@ -10,7 +10,7 @@ class CateController extends Controller
     	//获取所有分区
     	$parts = M('bbs_part')->select();
         //获取所有的用户名称
-        $users = M('bbs_user')->select();
+        $users = M('bbs_user')->where('auth<3')->select();
         // echo '<pre>';
         // print_r($parts);
         // print_r($users);die;
